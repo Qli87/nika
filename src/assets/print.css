@@ -1,0 +1,79 @@
+.margin0 {
+    margin: 0;
+}
+.rightAlign {
+    text-align: right;
+}
+.centerAlign {
+    text-align: center;
+}
+.invoiceNbrStyle {
+    /* border: 1px solid black; */
+    /* width: 200px; */
+    /* padding: 5px; */
+    /* background-color: lightgray; */
+    font-weight: bold;
+    font-size: 22px;
+}
+.weight500 {
+    font-weight: 500;
+}
+.cmpMainDetails {
+    text-align: center;
+    border: 1px solid black;
+    width: 100%;
+}
+.cmpName {
+    font-weight: bold;
+    font-size: 18px;
+}
+.size14 {
+    font-size: 14px;
+}
+.size18 {
+    font-size: 18px;
+    font-weight: 500;
+}
+.fontWeight {
+    font-weight: 500;
+}
+.img {
+    width: 100%;
+    padding-bottom: 30px;
+}
+.left150 {
+    margin-left: 150px;
+}
+.right150 {
+    margin-right: 150px;
+}
+.marginTop {
+    margin-top: 15px;
+}
+.invoiceBottomDetails {
+    margin-top: -10px;
+    padding-left: 5px;
+}
+.borderBottom {
+    border-bottom: 1px solid lightgray;
+}
+.total {
+    font-weight: bold;
+    border: 1px solid;
+    padding: 5px;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+.courtTxt {
+    position: fixed;
+    left: 0;
+    bottom: 90px;
+    width: 100%;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    margin-left: 20px;
+}

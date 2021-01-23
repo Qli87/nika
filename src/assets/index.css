@@ -1,0 +1,76 @@
+.bck {
+    background-image: url('/src/assets/wall22.jpg');
+}
+
+.height-style {
+  height: 100vh;
+  padding-top: 10%;
+}
+
+.loginBtn {
+  width: 100%;
+}
+.loginCmpRadius {
+  border-radius: 8px;
+}
+.loginCardTitle {
+  text-align: center;
+  padding-bottom: 25px;
+}
+.loginForm {
+  width: 95%;
+  margin: 10px;
+}
+.homePageLabel {
+  margin-left: 25px;
+  font-weight: 500;
+}
+.shadowButton {
+  box-shadow: 0 3px 5px rgba(182, 182, 182, 0.75);
+}
+.tbodyAligment {
+  text-align: center;
+}
+.articlesCard {
+    height: 100vh;
+}
+
+.sendRequestButton {
+  margin: 3px
+}
+.errorLogin {
+  text-align: 'center';
+  font-weight: 'bold';
+  padding-bottom: 10;
+  padding-top: 10;
+  color: 'red'
+}
+.articleInput {
+  width: 100%;
+  text-align: center;
+  border: 1px solid lightgray;
+}
+.errorAddingItem {
+    text-align: center;
+    color: red;
+    padding: 5px;
+    font-weight: 500;
+}
+.width40 {
+  width: 40%;
+}
+.width15 {
+  width: 15%;
+}
+.modalStyle {
+  padding-top: 20px;
+  width: 180px;
+  margin-top: -20px;
+}
+.modalContent {
+  padding-top: 10px;
+}
+
+.invoiceListBtn {
+  margin-bottom: 5px;
+}
