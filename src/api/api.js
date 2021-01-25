@@ -1,5 +1,10 @@
 import axios from 'axios';
 
+//
+//ADDED SOME COMENTS TO TEST GIT
+//
+
+
 var apiUrl = window.location.href.indexOf('admin.nika.me') >= 0 ? 'https://laravel.nika.me' : 'http://api.nika.test';
 
 axios.interceptors.request.use(function (config) {
